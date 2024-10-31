@@ -1,0 +1,15 @@
+C:\Users\Andrew\source\repos\NEW21\NEW21\obj\Debug\net8.0\NEW21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew\source\repos\NEW21\NEW21\obj\Debug\net8.0\NEW21.AssemblyInfoInputs.cache
+C:\Users\Andrew\source\repos\NEW21\NEW21\obj\Debug\net8.0\NEW21.AssemblyInfo.cs
+C:\Users\Andrew\source\repos\NEW21\NEW21\obj\Debug\net8.0\NEW21.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\NEW21\NEW21\bin\Debug\net8.0\NEW21.exe
+C:\Users\Andrew\source\repos\NEW21\NEW21\bin\Debug\net8.0\NEW21.deps.json
+C:\Users\Andrew\source\repos\NEW21\NEW21\bin\Debug\net8.0\NEW21.runtimeconfig.json
+C:\Users\Andrew\source\repos\NEW21\NEW21\bin\Debug\net8.0\NEW21.dll
+C:\Users\Andrew\source\repos\NEW21\NEW21\bin\Debug\net8.0\NEW21.pdb
+C:\Users\Andrew\source\repos\NEW21\NEW21\obj\Debug\net8.0\NEW21.dll
+C:\Users\Andrew\source\repos\NEW21\NEW21\obj\Debug\net8.0\refint\NEW21.dll
+C:\Users\Andrew\source\repos\NEW21\NEW21\obj\Debug\net8.0\NEW21.pdb
+C:\Users\Andrew\source\repos\NEW21\NEW21\obj\Debug\net8.0\NEW21.genruntimeconfig.cache
+C:\Users\Andrew\source\repos\NEW21\NEW21\obj\Debug\net8.0\ref\NEW21.dll
+C:\Users\Andrew\source\repos\NEW21\NEW21\obj\Debug\net8.0\NEW21.sourcelink.json
